@@ -129,15 +129,16 @@
 
 <details><summary><b>🌱 2026-03-26 (Thu)</b></summary>
 
-- 
+- 서킷 브레이커 구현
+- 가용성을 높이기 위해 어떤 기능을 구현하면 될지 연구
 </details>
 
 <details><summary><b>🌱 2026-03-27 (Fri)</b></summary>
 
-- 
+- 서킷 브레이커 오류 발견: API 요청이 들어오는 입구인 JWT 토큰이 블랙리스트 되어있는지 검사하는 것에 Redis를 사용했는데, 여기에는 서킷 브레이커가 적용되지 않아 오류가 발생함.
 </details>
 
 <details><summary><b>🌱 2026-03-28 (Sat)</b></summary>
 
-- 
+- JWT 토큰 블랙리스트 검사 로직에 Redis가 다운되었을 때 검사를 건너뛰는 로직 구현.
 </details>
