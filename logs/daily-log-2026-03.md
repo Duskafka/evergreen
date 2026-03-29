@@ -142,3 +142,8 @@
 
 - JWT 토큰 블랙리스트 검사 로직에 Redis가 다운되었을 때 검사를 건너뛰는 로직 구현.
 </details>
+
+<details><summary><b>🌱 2026-03-29 (Sun)</b></summary>
+
+- 
+</details>
