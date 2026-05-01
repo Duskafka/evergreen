@@ -13,5 +13,5 @@
 </div>
 
 ### Growing Records
-- [📅 이번 달 로그 확인하기](./logs/daily-log-2026-04.md)
+- [📅 이번 달 로그 확인하기](./logs/daily-log-2026-05.md)
 - [📂 전체 로그 보러가기](./logs/)
